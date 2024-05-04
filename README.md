@@ -1,4 +1,4 @@
-# [BEAT THE MOLE]
+# [BEAT THE MOLE GAME]
 
 The Beat the Mole game with html, css, and javascript.  
 
